@@ -2,7 +2,7 @@
 
 ## International debt statistics and analysis
 
-This Jupyter Notebook is used to show interesting statistics related to macroeconomics and country risk analysis with a special focus on debt statistics. 
+We will present different Jupyter Notebooks and show interesting statistics related to macroeconomics and country risk analysis with a special focus on debt statistics. 
 
 ## Contact us
 
